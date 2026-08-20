@@ -8,7 +8,7 @@
   "server": {
     "ip": "SomethingServer-qfKX.aternos.me",
     "port": 22761,
-    "version": "1.21.1",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
